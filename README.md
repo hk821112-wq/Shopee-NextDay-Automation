@@ -4,6 +4,10 @@
 - 聯繫方式  LINE:  HKSSA
 - 歡迎聯繫  7天免費使用授權碼
 
+## 下載程式
+👉 [點我下載最新版](https://github.com/hk821112-wq/Shopee-NextDay-Automation/releases/latest)
+
+
 ## 說明介紹
 - 功能介紹
 - 網址紀錄             :    你只需要輸入過的網址 就會一直記錄在上面 下次打開 網址依然還在 直接啟動
