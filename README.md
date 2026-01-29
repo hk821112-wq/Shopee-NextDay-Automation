@@ -4,7 +4,7 @@
 
 ## 使用畫面說明
 
-![操作流程](https://github.com/hk821112-wq/Shopee-NextDay-Automation/blob/main/隔日配說明時間軸_拷貝.jpg?raw=true)
+![操作流程](https://github.com/hk821112-wq/Shopee-NextDay-Automation/blob/main/隔日配說明時間軸 拷貝.jpg?raw=true)
 
 ## 功能特色
 - 批量處理商品
